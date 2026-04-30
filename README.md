@@ -35,7 +35,7 @@ Olá, tenho 18 anos e estou estudando na Universidade de Mogi das Cruzes(UMC), c
   <a href="https://www.instagram.com/guh.seiji" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/GustavoSeiji" target="_blank">
+  <a href="https://(https://www.facebook.com/profile.php?id=61578559389066&sk=about) target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:estevamseijigustavo@gmail.com">
