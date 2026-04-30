@@ -2,6 +2,7 @@
 
 ### 🚀 Sobre mim
 Olá, tenho 18 anos e estou estudando na Universidade de Mogi das Cruzes(UMC), cursando Sistemas de Informação e estou no primeiro período.
+Ainda estou descobrindo muitas coisas no mundo da tecnologia, mas gostaria de seguir nessa área.
 
 ---
 
@@ -21,7 +22,7 @@ Olá, tenho 18 anos e estou estudando na Universidade de Mogi das Cruzes(UMC), c
 
 ### 📚 Proximos passos
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
